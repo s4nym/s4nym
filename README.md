@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" />
+  <img src="./assets/lofi-gopher-4-min.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm S4NYM👋</h1>
