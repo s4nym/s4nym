@@ -14,15 +14,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=s4nym&show_icons=true&hide_title=true&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nym&layout=compact&hide_border=true" 
-    alt="Top Languages" 
-  />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_USERNAME&label=Followers&query=$.followers&color=blue" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_USERNAME&label=Repos&query=$.public_repos&color=green" />
 </p>
