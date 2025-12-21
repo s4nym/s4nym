@@ -1,4 +1,4 @@
-# Hi 👋! I’m Sanyam
+# Hi 👋! I’m Sanyam(S4NYM)
 
 I’m a developer with around 5 years of experience, mostly building and breaking things with code.
 
